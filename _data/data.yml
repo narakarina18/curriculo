@@ -1,43 +1,35 @@
-name: John Doe
+name: Nara Karina Silva De oliveira
 support_dark_mode: true
 fork: true
 
 # Sidebar
-contact:
-  email: info@johndoe.com
-  github: johndoe
+contact: (84) 9906-6191
+  email: karinanara17@gmail.com
+  github: narakarina18
   linkedin: johndoe
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: português
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: tecnico em  Informatica
+    time: 2023-2024
+    university: IFRN
 
 skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
-  - category: Frontend
+  - category: informatica
     skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Comunicativa
+      - Proativa
+      - Facilidade em aprendizado
+      - Facilidade em trabalho de equuipe
+      - Fácilem tecnologia
+      - Organizada
+      - simpática
+      
 
 # Profile
 profile: |
@@ -49,9 +41,9 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Empreendora
+    time: 2021
+    company: Trabalho na minha empresa de bolsa
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -59,10 +51,10 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Tecnologia avançada,excel
   
-  - role: Researcher
-    time: 2016-2020
+  - role: pesquisadora
+    time: 2020-2021
     company: Microsoft
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
